@@ -4,13 +4,13 @@
 - 💞️ I’m looking to collaborate on FOSS
 - 📫 How to reach me ...
 
-##Programming languages I know:
--js
--html
--css
--php
--c++
--python
--bash
+## Programming languages I know:
+- js
+- html
+- css
+- php
+- c++
+- python
+- bash
 
 
