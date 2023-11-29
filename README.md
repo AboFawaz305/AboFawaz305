@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abdulaziz Fawaz Almutiry
+# 👋 Hi, I’m Abdulaziz.
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ui/ux
 - 💞️ I’m looking to collaborate on FOSS
