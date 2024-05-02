@@ -9,7 +9,7 @@
 - html
 - css
 - php
-- c++
+- ~~ c++ ~~
 - python
 - bash
 
