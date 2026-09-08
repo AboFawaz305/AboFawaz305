@@ -16,8 +16,8 @@ Software engineer focused on full-stack development, desktop applications, and a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 
-## Connect
+## Contact
 
-<a href="https://abdulazizalmutairi.com" title="Portfolio"><img src="https://api.iconify.design/fluent-color:globe-24.svg" width="40" height="40" alt="Portfolio"></a>&nbsp;
-<a href="https://www.linkedin.com/in/abdulaziz-almutairi32" title="LinkedIn"><img src="https://api.iconify.design/logos:linkedin-icon.svg" width="40" height="40" alt="LinkedIn"></a>&nbsp;
+<a href="https://abdulazizalmutairi.com" target="_blank" title="Portfolio"><img src="https://api.iconify.design/fluent-color:globe-24.svg" width="40" height="40" alt="Portfolio"></a>&nbsp;
+<a href="https://www.linkedin.com/in/abdulaziz-almutairi32" target="_blank" title="LinkedIn"><img src="https://api.iconify.design/logos:linkedin-icon.svg" width="40" height="40" alt="LinkedIn"></a>&nbsp;
 <a href="mailto:Abdulaziz Almutairi <me@abdulazizalmutairi.com>" title="Email"><img src="https://api.iconify.design/material-icon-theme:email.svg" width="40" height="40" alt="Email"></a>
