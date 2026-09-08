@@ -1,34 +1,24 @@
 # Abdulaziz Almutairi
 
-**Software Engineer · Full-Stack and Desktop Development**
+Software engineer focused on full-stack development, desktop applications, and automation. I enjoy turning real operational problems into maintainable software and exploring software architecture, developer tooling, systems, and networking.
 
-Computer Science graduate based in Saudi Arabia. I turn operational problems into maintainable software—from full-stack web applications to cross-platform desktop tools and workflow automation. I am especially interested in software architecture, developer tooling, and systems and networking.
+## Technologies
 
-[Portfolio](https://abdulazizalmutairi.com) · [LinkedIn](https://www.linkedin.com/in/abdulaziz-almutairi32) · [Email](mailto:me@abdulazizalmutairi.com)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=FFFFFF)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 
-## Selected work
+## Connect
 
-- **Signalbench** — A local-first Electron workbench for repeatable network-device inspections, automated measurements, dashboards, and portable reports.
-- **Reports Generator** — A dependency-free Python and Tkinter application that transforms Excel data and Word templates into consistently formatted reports.
-- **[Atrab](https://github.com/AboFawaz305/holberton-portfolio-project)** — A real-time student community platform built with Vue, FastAPI, MongoDB, and WebSockets.
-
-Screenshots, project context, and concise case studies are available on my [portfolio](https://abdulazizalmutairi.com#projects).
-
-## Core toolkit
-
-| Area | Technologies |
-| --- | --- |
-| Languages | JavaScript, Python, C, SQL, Bash, PowerShell |
-| Web | Vue.js, FastAPI, Node.js, Astro, HTML, CSS |
-| Desktop and automation | Electron, Tkinter, shell scripting |
-| Data | MongoDB, PostgreSQL, MySQL |
-| Engineering | Git, Docker, GitHub Actions, testing, Linux, Windows |
-
-## What I care about
-
-- Designing modular software that is easy to understand, test, and extend.
-- Automating repetitive work without hiding important decisions from users.
-- Building useful interfaces around systems, networking, and operational workflows.
-- Learning through real projects and contributing to open-source software.
-
-I am open to software engineering and full-stack development opportunities.
+<a href="https://abdulazizalmutairi.com" title="Portfolio"><img src="https://api.iconify.design/fluent-color:globe-24.svg" width="40" height="40" alt="Portfolio"></a>&nbsp;
+<a href="https://www.linkedin.com/in/abdulaziz-almutairi32" title="LinkedIn"><img src="https://api.iconify.design/logos:linkedin-icon.svg" width="40" height="40" alt="LinkedIn"></a>&nbsp;
+<a href="mailto:me@abdulazizalmutairi.com" title="Email"><img src="https://api.iconify.design/flat-color-icons:email.svg" width="40" height="40" alt="Email"></a>
